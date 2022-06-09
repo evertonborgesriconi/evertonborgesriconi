@@ -1,8 +1,6 @@
-### Olá pessoal 👋
+### Olá pessoal me chamo Éverton 👋
 
-## Olá, me chamo Everton ! 
-### Bem vindo ao meu perfil GitHub 👋
-
+### Bem vindo ao meu perfil GitHub!
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
