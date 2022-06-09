@@ -1,3 +1,9 @@
+### Olá pessoal 👋
+
+## Olá, me chamo Everton ! 
+### Bem vindo ao meu perfil GitHub 👋
+
+
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonborgesriconi&layout=compact&langs_count=7&theme=dracula"/>
